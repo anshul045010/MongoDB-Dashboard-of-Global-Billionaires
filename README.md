@@ -1,6 +1,8 @@
 # Global Billionaires Statistics #
 This dashboard offers a comprehensive view of the global billionaire landscape, exploring key trends in wealth distribution. It delves into the demographics of billionaires, including their gender, age, and industry affiliations. The dashboard visualizes the geographical distribution of wealth, highlighting regions with high concentrations of billionaires. Additionally, it analyzes the sources of wealth, differentiating between self-made and inherited fortunes. By providing insights into wealth accumulation patterns, industry trends, and global economic disparities, this dashboard empowers users to understand the complex dynamics of wealth and its implications for society.
 
+![Billionaires Statistics Dashboard](https://github.com/user-attachments/assets/c4ccebc1-68f0-419f-abd1-37f0531ff21d)
+
 **Popular Sources of Wealth**
 **Objective:** To visually represent the most common industries and sectors that contribute to the wealth of billionaires. The word cloud aims to identify the key drivers of wealth accumulation and highlight the diversity of economic activities that generate significant wealth.
 **Insights:**
