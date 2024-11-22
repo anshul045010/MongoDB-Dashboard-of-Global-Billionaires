@@ -3,8 +3,10 @@ This dashboard offers a comprehensive view of the global billionaire landscape, 
 
 ![Billionaires Statistics Dashboard](https://github.com/user-attachments/assets/c4ccebc1-68f0-419f-abd1-37f0531ff21d)
 
-**Popular Sources of Wealth**
+# **Popular Sources of Wealth** #
+
 **Objective:** To visually represent the most common industries and sectors that contribute to the wealth of billionaires. The word cloud aims to identify the key drivers of wealth accumulation and highlight the diversity of economic activities that generate significant wealth.
+
 **Insights:**
 •	Dominance of Traditional Industries: Industries like real estate, finance, and manufacturing remain significant sources of wealth for many billionaires.
 •	Rise of Technology and Healthcare: The prominence of sectors like software, pharmaceuticals, and consumer goods indicates the growing importance of innovation and technological advancements in wealth creation.
